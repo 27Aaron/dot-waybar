@@ -1,1 +1,1 @@
-# This is My Dotfiles.
+# This is My Waybar Dotfiles.
